@@ -1,0 +1,30 @@
+{
+  "name": "iot-webui-upacker",
+  "version": "1.0.0",
+  "description": "web ui interface unpacker help you to save disk space (like reactjs chunks and css files), when you work on routers or microservers like esp32 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rorkflash/iot-webui-upacker.git"
+  },
+  "keywords": [
+    "esp32",
+    "freerts",
+    "micro",
+    "servers",
+    "reactjs",
+    "angularjs",
+    "front",
+    "end",
+    "frameworks"
+  ],
+  "author": "Ashot Gasparyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rorkflash/iot-webui-upacker/issues"
+  },
+  "homepage": "https://github.com/rorkflash/iot-webui-upacker#readme"
+}
